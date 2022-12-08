@@ -1,0 +1,41 @@
+.card {
+    margin: 10px;
+    min-width: 180px;
+    max-width: 100%;
+    height: 150px;
+}
+
+.one {
+    background-color: #3851d0;
+    color: #eb0f00;
+}
+
+.two {
+    background-color: #088a08;
+}
+
+.three {
+    background-color: #eb0f00;
+}
+
+.four {
+    background-color: #f64701;
+}
+
+.card-header {
+    background-color: #e5e5f700;
+    opacity: 0.8;
+    background-size: 10px 10px;
+    background-image: repeating-linear-gradient(45deg, #444df700 0, #444df743 1px, #e5e5f749 0, #e5e5f746 50%);
+}
+
+.card-body {
+    padding: 0 0 3px 5px;
+    color: white;
+
+
+}
+
+h1 {
+    font-size: 4rem;
+}

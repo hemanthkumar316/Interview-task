@@ -1,0 +1,8 @@
+* {
+    box-sizing: content-box;
+}
+
+#nav {
+    margin: 0;
+    padding-left: 0;
+}
